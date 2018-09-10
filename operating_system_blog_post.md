@@ -37,17 +37,17 @@ MacOS is the a series of *graphical user interface (GUI)* developed and released
 ## Pros and Cons about MacOS
 
 ###### Advantages
-* **Simple and efficient user interface.** Both MacOS and Windows has a user friendly *graphical user interface (GUI)*. MacOS provides a more efficient operation experience for it users. For example, installing, and deleting can be done in the same way with iOS system. MacOS is open source, so users can personalize their app and computer to reach the best efficiency. Also icloud and airdrop are very convenient for synchronize files from iPhone, iPads to MacBook.
+* **Simple and Efficient user Interface.** Both MacOS and Windows has a user friendly *graphical user interface (GUI)*. MacOS provides a more efficient operation experience for it users. For example, installing, and deleting can be done in the same way with iOS system. MacOS is open source, so users can personalize their app and computer to reach the best efficiency. Also icloud and airdrop are very convenient for synchronize files from iPhone, iPads to MacBook.
 
-* **Better security.** Compare to other operating system, like Windows, MacOS do has a better security and less virus, which don't request users to manage the virus or the security issues as much as Windows Users.
+* **Better Security.** Compare to other operating system, like Windows, MacOS do has a better security and less virus, which don't request usgers to manage the virus or the security issues as much as Windows Users.
 
-* **Multitasking feature.** MacOS has build in short-cut keys and trackpad gestures to help user switch in between of windows and tasks faster and smoother. It also allow user to operate on two windows at the same time use the split screen.![Multitasking interface](https://usabilitygeek.com/wp-content/uploads/2016/10/windows-10-macos-sierra-07-mission-control.jpg)
+* **Multitasking Feature.** MacOS has build in short-cut keys and trackpad gestures to help user switch in between of windows and tasks faster and smoother. It also allow user to operate on two windows at the same time use the split screen.![Multitasking interface](https://usabilitygeek.com/wp-content/uploads/2016/10/windows-10-macos-sierra-07-mission-control.jpg)
 
 
 ###### Disadvantages
 * **Cost.** Mac computers are relatively more expensive compare to other brands. It is easier and cheaper to by a computer with Windows than a Mac computer.
 
-* **Software incompatibility.** Comparing with Windows user, there are a lot of softwares that does not support MacOS system. When using MacOS for business and professional uses, figuring out a alternative app can be very time consuming and difficult.   
+* **Software Incompatibility.** Comparing with Windows user, there are a lot of softwares that does not support MacOS system. When using MacOS for business and professional uses, figuring out a alternative app can be very time consuming and difficult.   
 
 ## Linux system
 
@@ -67,3 +67,10 @@ Linux was developed first by Linus Torvalds in 1991. The operating system was co
 * **Application Incompatibility.** For Linux system, the issue of application on different versions and on different distribution exist. Sometimes, one application is not compatible on different versions of same distribution.
 
 * **Business applications.** Windows is know for a wild application and uses for business use. However, for Linux, there are not much business applications for it. Thus, when choosing an operating system for business usage, user might want to make sure the application is available for linux system.
+
+### Attribution and Source of infromation 
+Winius, J.J.E. What Is Linux? www.rjsystems.nl/en/3100.php.
+
+“MacOS.” Wikipedia, Wikimedia Foundation, 4 Sept. 2018,   https://en.wikipedia.org/wiki/MacOS#Development.
+
+Beal, Vangie. “The History of Windows Operating Systems.” The Five Generations of Computers - Webopedia Reference, www.webopedia.com/DidYouKnow/Hardware_Software/history_of_microsoft_windows_operating_system.html.
