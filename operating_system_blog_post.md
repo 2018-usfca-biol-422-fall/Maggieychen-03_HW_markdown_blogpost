@@ -28,7 +28,7 @@ There are also several downside of the Windows system.
 
 * **Poor Security.** Windows are easier to be hijacked compare to other operating system. Due to the closed source, there is no log file generated in Windows system, which makes it hard to prove other's involvement, and lead to the compromisation of hijacking activities.
 
-## MacOS
+## MacOS system
 
 ### History about MacOS
 
@@ -44,7 +44,24 @@ MacOS is the a series of *graphical user interface (GUI)* developed and released
 * **Multitasking feature.** MacOS has build in short-cut keys and trackpad gestures to help user switch in between of windows and tasks faster and smoother. It also allow user to operate on two windows at the same time use the split screen.
 
 ###### Disadvantages
+* **Cost.** Mac computers are relatively more expensive compare to other brands. It is easier and cheaper to by a computer with Windows than a Mac computer.
 
- * **Cost.** Mac computers are relatively more expensive compare to other brands. It is easier and cheaper to by a computer with Windows than a Mac computer.
+* **Software incompatibility.** Comparing with Windows user, there are a lot of softwares that does not support MacOS system. When using MacOS for business and professional uses, figuring out a alternative app can be very time consuming and difficult.   
 
- * **Software incompatibility.** Comparing with Windows user, there are a lot of softwares that does not support MacOS system. When using MacOS for business and professional uses, figuring out a alternative app can be very time consuming and difficult.    
+## Linux system
+
+### History about Linux
+
+Linux was developed first by Linus Torvalds in 1991. The operating system was completed when combined (became) with Linux kernel Project. Linux also know as GNU, this is because when the system is completed with members of the *Free Software Foundation* for the GNU Project. GNU project is a collaborative project for development of free softwares. MINIX, a Unix-like system for academic use has been released at 1985 with the source code available. Torvald's work of development was done on MINIX. Linux is known as a operating system with *graphical user interface (GUI)*, and massive amount of tools, as well as available applications. Linux is also well know with it open source, that everyone can build on it.
+
+# Pros and Cons about Linux
+
+###### Advantages
+* **Free Tools and Applications.** Due the development of Linux has collaborated with the *Free Software Foundation*, there are a lot of applications and tool, even commercial applications are free to Linux system. Linus also come with a range of open source applications.
+
+* **Open Source.** The open source of Linux allow programmer to collaborate on different project, and the code for the Linux got reviewed a lot by programmers, thus, is constantly improving. Open source applications allow user to modify it by their specific uses. This also make the Linux system easy to manage, which makes it very secured.
+
+###### Disadvantages
+* **Application Incompatibility.** For Linux system, the issue of application on different versions and on different distribution exist. Sometimes, one application is not compatible on different versions of same distribution.
+
+* **Business applications.** Windows is know for a wild application and uses for business use. However, for Linux, there are not much business applications for it. Thus, when choosing an operating system for business usage, user might want to make sure the application is available for linux system.
