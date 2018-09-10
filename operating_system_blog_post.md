@@ -20,7 +20,7 @@ There are many advantages of Windows system, which made it the mostly widely use
 
 * **Easy to use.** The standardized presentation of Windows systems has made it user friendly. Windows has kept the how the programs are written and how the file system present pretty consistent throughout different versions.
 
-* **Software Compatibility.** There is a wild rage of applications are available for Windows. There are even a good amount to softwares that are only available to Windows. For the most of the programs that is available for Windows, if the user update the systems, those programs will also work for the new version. In this way, users don't need to worry too much about loosing the data, while upgrading the system.
+* **Software Compatibility.** There is a wild rage of applications are available for Windows. There are even a good amount to softwares that are only available to Windows, like softwares for certain business use. For the most of the programs that is available for Windows, if the user update the systems, those programs will also work for the new version. In this way, users don't need to worry too much about loosing the data, while upgrading the system.
 
 There are also several downside of the Windows system.
 
@@ -32,14 +32,14 @@ There are also several downside of the Windows system.
 
 ### History about MacOS
 
-MacOS is the a series of *graphical user interface (GUI)* developed and released by Apple since 2001. The old name of MacOS are Mac OS X and OS X. macOS used UNIX as basis operating system. Before the macOS series, the "classic" MacOS was introduced 1984, and released to the version of Mac OS 9 until 1999. Throughout 1990s, the development of the "classic" MacOS wasn't as successful as it was expected. Then at 1996, Apple brought NeXT and use it OPENSTEP (a *object-oriented application programming interface-API*) as the basic of Apple's operating system. The first release of Mac OS X was Mac OS X 10.0 at March 2001. The name of "Mac OS X" was used until 2012, and all it's versions are named after big cats, like *Mac OS X 10.1 Puma*, *Mac OS X 10.2 Jaguar*. Then, since the release of *OS X 10.9 Mavericks*, landmarks of California became the names of different versions. Starting with *macOS 10.12 Sierra*, "macOS" has been adopt as the operating system name. So far, there are 15 version as been released, the newest version is the *macOS 10.14 Mojave(2018)*.
+MacOS is the a series of *graphical user interface (GUI)* developed and released by Apple since 2001. The old name of MacOS are "Mac OS X" and "OS X". macOS used UNIX as basis operating system. Before the macOS series, the "classic" MacOS was introduced 1984, and released to the version of *Mac OS 9* until 1999. Throughout 1990s, the development of the "classic" MacOS wasn't as successful as it was expected. Then at 1996, Apple brought NeXT and use it OPENSTEP (a *object-oriented application programming interface-API*) as the basic of Apple's operating system, which was developed by Steven Jobs. The first release of Mac OS X was *Mac OS X 10.0* at March 2001. The name of "Mac OS X" was used until 2012, and it's versions are named after big cats, like *Mac OS X 10.1 Puma*, *Mac OS X 10.2 Jaguar*. Then, since the release of *OS X 10.9 Mavericks*, landmarks of California became the names of different versions of Mac OS X. Starting with *macOS 10.12 Sierra*, "macOS" has been adopt as the operating system name. So far, there are 15 version as been released, the newest version is the *macOS 10.14 Mojave(2018)*.
 
 ## Pros and Cons about MacOS
 
 ###### Advantages
-* **Simple and Efficient user Interface.** Both MacOS and Windows has a user friendly *graphical user interface (GUI)*. MacOS provides a more efficient operation experience for it users. For example, installing, and deleting can be done in the same way with iOS system. MacOS is open source, so users can personalize their app and computer to reach the best efficiency. Also icloud and airdrop are very convenient for synchronize files from iPhone, iPads to MacBook.
+* **Simple and Efficient user Interface.** Both MacOS and Windows has a user friendly *graphical user interface (GUI)*. MacOS provides a more efficient operation experience for it users. For example, installing, and deleting can be done in the same way with iOS system. MacOS is open source, so users can personalize their app and computer to reach the best efficiency. Also iCloud and airdrop are very convenient for synchronize files from iPhone, iPads to MacBook.
 
-* **Better Security.** Compare to other operating system, like Windows, MacOS do has a better security and less virus, which don't request usgers to manage the virus or the security issues as much as Windows Users.
+* **Better Security.** Compare to other operating system, like Windows, MacOS do has a better security and less virus, which don't request users to manage the virus or the security issues as much as Windows Users.
 
 * **Multitasking Feature.** MacOS has build in short-cut keys and trackpad gestures to help user switch in between of windows and tasks faster and smoother. It also allow user to operate on two windows at the same time use the split screen.![Multitasking interface](https://usabilitygeek.com/wp-content/uploads/2016/10/windows-10-macos-sierra-07-mission-control.jpg)
 
@@ -64,11 +64,11 @@ Linux was developed first by Linus Torvalds in 1991. The operating system was co
 * **Open Source.** The open source of Linux allow programmer to collaborate on different project, and the code for the Linux got reviewed a lot by programmers, thus, is constantly improving. Open source applications allow user to modify it by their specific uses. This also make the Linux system easy to manage, which makes it very secured.
 
 ###### Disadvantages
-* **Application Incompatibility.** For Linux system, the issue of application on different versions and on different distribution exist. Sometimes, one application is not compatible on different versions of same distribution.
+* **Application Incompatibility.** For Linux system, the issue of application on different versions and on different distribution exist. Sometimes, one application is not compatible on different versions of same distribution, according the article of 'What Is Linux?'.
 
-* **Business applications.** Windows is know for a wild application and uses for business use. However, for Linux, there are not much business applications for it. Thus, when choosing an operating system for business usage, user might want to make sure the application is available for linux system.
+* **Business applications.** Windows is known for available for a wide rage of application and tools for business use. However, for Linux, there are not much business applications for it. Thus, when choosing an operating system for business usage, user might want to make sure the application is available for linux system.
 
-### Attribution and Source of infromation
+### Attribution and Source of information
 Winius, J.J.E. What Is Linux? www.rjsystems.nl/en/3100.php.
 
 “MacOS.” Wikipedia, Wikimedia Foundation, 4 Sept. 2018,   https://en.wikipedia.org/wiki/MacOS#Development.
