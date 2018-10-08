@@ -78,11 +78,10 @@ Linux was developed first by Linus Torvalds in 1991. The operating system was co
 * **Business applications.** Windows is known for available for a wide rage of application and tools for business use. However, for Linux, there are not much business applications for it. Thus, when choosing an operating system for business usage, user might want to make sure the application is available for linux system.
 
 ### Attribution and Source of information
-Winius, J.J.E. What Is Linux? www.rjsystems.nl/en/3100.php.
+[Winius, J.J.E. What Is Linux?](www.rjsystems.nl/en/3100.php.)
 
-“MacOS.” Wikipedia, Wikimedia Foundation, 4 Sept. 2018,   https://en.wikipedia.org/wiki/MacOS#Development.
+[“MacOS.” Wikipedia, Wikimedia Foundation, 4 Sept. 2018.](https://en.wikipedia.org/wiki/MacOS#Development)
 
-Beal, Vangie. “The History of Windows Operating Systems.” The Five Generations of Computers - Webopedia Reference, www.webopedia.com/DidYouKnow/Hardware_Software/history_of_microsoft_windows_operating_system.html.
+[Beal, Vangie. “The History of Windows Operating Systems.” The Five Generations of Computers - Webopedia Reference.](www.webopedia.com/DidYouKnow/Hardware_Software/history_of_microsoft_windows_operating_system.html)
 
- Market Share Statistics for Internet Technologies, total market share of all desktop operating systems (November,2017).
- https://www.netmarketshare.com/operating-system-market-share.aspx?qprid=10&qpcustomd=0
+ [Market Share Statistics for Internet Technologies, total market share of all desktop operating systems (November,2017).](https://www.netmarketshare.com/operating-system-market-share.aspx?qprid=10&qpcustomd=0)
